@@ -1,5 +1,5 @@
 <h1>Содержание<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Определение-перспективного-тарифа-для-телеком-компании" data-toc-modified-id="Определение-перспективного-тарифа-для-телеком-компании-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Определение перспективного тарифа для телеком компании</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Описание-тарифов" data-toc-modified-id="Описание-тарифов-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Описание тарифов</a></span><ul class="toc-item"><li><ul class="toc-item"><li><span><a href="#Тариф-«Смарт»" data-toc-modified-id="Тариф-«Смарт»-1.2.0.1"><span class="toc-item-num">1.2.0.1&nbsp;&nbsp;</span>Тариф «Смарт»</a></span></li><li><span><a href="#Тариф-«Ультра»" data-toc-modified-id="Тариф-«Ультра»-1.2.0.2"><span class="toc-item-num">1.2.0.2&nbsp;&nbsp;</span>Тариф «Ультра»</a></span></li></ul></li></ul></li><li><span><a href="#Описание-данных" data-toc-modified-id="Описание-данных-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Описание данных</a></span><ul class="toc-item"><li><ul class="toc-item"><li><span><a href="#Таблица-users-(информация-о-пользователях):" data-toc-modified-id="Таблица-users-(информация-о-пользователях):-1.3.0.1"><span class="toc-item-num">1.3.0.1&nbsp;&nbsp;</span>Таблица users (информация о пользователях):</a></span></li><li><span><a href="#Таблица-calls-(информация-о-звонках):" data-toc-modified-id="Таблица-calls-(информация-о-звонках):-1.3.0.2"><span class="toc-item-num">1.3.0.2&nbsp;&nbsp;</span>Таблица calls (информация о звонках):</a></span></li><li><span><a href="#Таблица-messages-(информация-о-сообщениях):" data-toc-modified-id="Таблица-messages-(информация-о-сообщениях):-1.3.0.3"><span class="toc-item-num">1.3.0.3&nbsp;&nbsp;</span>Таблица messages (информация о сообщениях):</a></span></li><li><span><a href="#Таблица-internet-(информация-об-интернет-сессиях):" data-toc-modified-id="Таблица-internet-(информация-об-интернет-сессиях):-1.3.0.4"><span class="toc-item-num">1.3.0.4&nbsp;&nbsp;</span>Таблица internet (информация об интернет-сессиях):</a></span></li><li><span><a href="#Таблица-tariffs-(информация-о-тарифах):" data-toc-modified-id="Таблица-tariffs-(информация-о-тарифах):-1.3.0.5"><span class="toc-item-num">1.3.0.5&nbsp;&nbsp;</span>Таблица tariffs (информация о тарифах):</a></span></li></ul></li></ul></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.4"><span class="toc-item-num">1.4&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
+<div class="toc"><ul class="toc-item"><li><span><a href="#Определение-перспективного-тарифа-для-телеком-компании" data-toc-modified-id="Определение-перспективного-тарифа-для-телеком-компании-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Определение перспективного тарифа для телеком компании</a></span><ul class="toc-item"><li><span><a href="#Описание-проекта" data-toc-modified-id="Описание-проекта-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Описание проекта</a></span></li><li><span><a href="#Описание-тарифов" data-toc-modified-id="Описание-тарифов-1.2"><span class="toc-item-num">1.2&nbsp;&nbsp;</span>Описание тарифов</a></span><ul class="toc-item"><li><span><a href="#Тариф-«Смарт»" data-toc-modified-id="Тариф-«Смарт»-1.2.1"><span class="toc-item-num">1.2.1&nbsp;&nbsp;</span>Тариф «Смарт»</a></span></li><li><span><a href="#Тариф-«Ультра»" data-toc-modified-id="Тариф-«Ультра»-1.2.2"><span class="toc-item-num">1.2.2&nbsp;&nbsp;</span>Тариф «Ультра»</a></span></li></ul></li><li><span><a href="#Описание-данных" data-toc-modified-id="Описание-данных-1.3"><span class="toc-item-num">1.3&nbsp;&nbsp;</span>Описание данных</a></span><ul class="toc-item"><li><span><a href="#Таблица-users-(информация-о-пользователях):" data-toc-modified-id="Таблица-users-(информация-о-пользователях):-1.3.1"><span class="toc-item-num">1.3.1&nbsp;&nbsp;</span>Таблица users (информация о пользователях):</a></span></li><li><span><a href="#Таблица-calls-(информация-о-звонках):" data-toc-modified-id="Таблица-calls-(информация-о-звонках):-1.3.2"><span class="toc-item-num">1.3.2&nbsp;&nbsp;</span>Таблица calls (информация о звонках):</a></span></li><li><span><a href="#Таблица-messages-(информация-о-сообщениях):" data-toc-modified-id="Таблица-messages-(информация-о-сообщениях):-1.3.3"><span class="toc-item-num">1.3.3&nbsp;&nbsp;</span>Таблица messages (информация о сообщениях):</a></span></li><li><span><a href="#Таблица-internet-(информация-об-интернет-сессиях):" data-toc-modified-id="Таблица-internet-(информация-об-интернет-сессиях):-1.3.4"><span class="toc-item-num">1.3.4&nbsp;&nbsp;</span>Таблица internet (информация об интернет-сессиях):</a></span></li><li><span><a href="#Таблица-tariffs-(информация-о-тарифах):" data-toc-modified-id="Таблица-tariffs-(информация-о-тарифах):-1.3.5"><span class="toc-item-num">1.3.5&nbsp;&nbsp;</span>Таблица tariffs (информация о тарифах):</a></span></li></ul></li><li><span><a href="#Вывод" data-toc-modified-id="Вывод-1.4"><span class="toc-item-num">1.4&nbsp;&nbsp;</span>Вывод</a></span></li></ul></li></ul></div>
 
 # Определение перспективного тарифа для телеком компании
 ## Описание проекта
@@ -7,7 +7,7 @@
 Мне предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов. В моем распоряжении данные 500 пользователей «Мегалайна»: кто они, откуда, каким тарифом пользуются и т.д. за 2018 год. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше, чтобы скорректировать рекламный бюджет, коммерческий департамент компании «Мегалайн» хочет понять, какой тариф приносит больше денег.
 ## Описание тарифов
 
-#### Тариф «Смарт»
+### Тариф «Смарт»
 - Ежемесячная плата: 550 рублей
 - Включено 500 минут разговора, 50 сообщений и 15 Гб интернет-трафика
 - Стоимость услуг сверх тарифного пакета:
@@ -15,7 +15,7 @@
   - сообщение: 3 рубля
   - 1 Гб интернет-трафика: 200 рублей  
 
-#### Тариф «Ультра»
+### Тариф «Ультра»
 - Ежемесячная плата: 1950 рублей
 - Включено 3000 минут разговора, 1000 сообщений и 30 Гб интернет-трафика
 - Стоимость услуг сверх тарифного пакета:
@@ -25,7 +25,7 @@
 
 ## Описание данных
 
-#### Таблица users (информация о пользователях):
+### Таблица users (информация о пользователях):
 - user_id — уникальный идентификатор пользователя
 - first_name — имя пользователя
 - last_name — фамилия пользователя
@@ -36,27 +36,27 @@
 - tariff — название тарифного плана  
 
 
-#### Таблица calls (информация о звонках):
+### Таблица calls (информация о звонках):
 - id — уникальный номер звонка
 - call_date — дата звонка
 - duration — длительность звонка в минутах
 - user_id — идентификатор пользователя, сделавшего звонок  
 
 
-#### Таблица messages (информация о сообщениях):
+### Таблица messages (информация о сообщениях):
 - id — уникальный номер сообщения
 - message_date — дата сообщения
 - user_id — идентификатор пользователя, отправившего сообщение  
 
 
-#### Таблица internet (информация об интернет-сессиях):
+### Таблица internet (информация об интернет-сессиях):
 - id — уникальный номер сессии
 - mb_used — объём потраченного за сессию интернет-трафика (в мегабайтах)
 - session_date — дата интернет-сессии
 - user_id — идентификатор пользователя  
 
 
-#### Таблица tariffs (информация о тарифах):
+### Таблица tariffs (информация о тарифах):
 - tariff_name — название тарифа
 - rub_monthly_fee — ежемесячная абонентская плата в рублях
 - minutes_included — количество минут разговора в месяц, включённых в абонентскую плату
